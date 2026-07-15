@@ -29,6 +29,8 @@ The chassis and steering column were custom-designed in SolidWorks and 3D printe
 * **Propulsion:** DC Motor with L298N H-Bridge Driver
 * **Vision / Scanning:** HC-SR04 Ultrasonic Sensor mounted on an SG90 Servo (180° scanning radius)
 * **Power Supply:** 2x Lithium Cells (7.9V)
+<img width="825" height="733" alt="image" src="https://github.com/user-attachments/assets/115119dd-9384-4777-a712-5a9f6125870d" />
+<img width="711" height="992" alt="image" src="https://github.com/user-attachments/assets/52ef4ed5-a77b-49f1-a873-099d908a9600" />
 
 ---
 
@@ -48,8 +50,9 @@ To prevent the robot from driving in "S" or "8" shapes after avoiding an obstacl
 * `HAMOWANIE_AWARYJNE` -> Instant stop upon detecting a threat.
 * `SKANOWANIE_SEKTOROWE` -> Executes the 180° environmental sweep.
 
-FSM flow chart:
+FSM flow charts:
 <img width="1117" height="481" alt="obraz" src="https://github.com/user-attachments/assets/3d64cd1e-41fb-41d9-9353-64c44cafa2b9" />
+<img width="622" height="981" alt="image" src="https://github.com/user-attachments/assets/7f6c48e9-dbad-4c54-beab-d5a8aae51101" />
 
 
 ---
